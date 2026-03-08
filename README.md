@@ -52,17 +52,17 @@ The system allows users to **interactively adjust feature weights through a GUI*
 ## Feature Selection
 
 ### Color Feature Types
-- **Center Patch** — small region extracted from image center  
-- **rg** — rg chromaticity histogram  
-- **Multi-rg** — multiple rg histograms from different image regions  
+- **Center Patch** - small region extracted from image center  
+- **rg** - rg chromaticity histogram  
+- **Multi-rg** - multiple rg histograms from different image regions  
 
 ### Texture Feature Types
-- **Magnitude + Orientation** — gradient-based texture descriptor  
-- **Texture + Color** — combined feature approach  
-- **Laws Filters** — S5S5 filter responses  
+- **Magnitude + Orientation** - gradient-based texture descriptor  
+- **Texture + Color** - combined feature approach  
+- **Laws Filters** - S5S5 filter responses  
 
 ### DNN Feature Types
-- **ResNet** — ResNet-18 embeddings for semantic similarity  
+- **ResNet** - ResNet-18 embeddings for semantic similarity  
 
 ---
 

@@ -128,4 +128,5 @@ Each result shows:
 ### Python
 
 ```bash
-pip install opencv-python numpy pillow# vision-recognition-sandbox
+pip install opencv-python numpy pillow
+```
